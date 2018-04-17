@@ -1,0 +1,77 @@
+/* * {
+    border: 1px solid greenyellow;
+} */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("http://shefdomi.com/wp-content/uploads/2014/05/bg-7-full.jpg");
+    background-attachment: fixed;
+}
+
+.myName {
+    text-align: center;
+    font-size: 10vmax;
+}
+
+.email {
+    text-align: center;
+    font-size: 2vmax;
+}
+
+.location {
+    text-align: center;
+    font-size: 2vmax;
+}
+
+.summary {
+    text-align: center;
+    font-size: 2vmax;
+    width: 50vmax;
+    margin: 0 auto;
+}
+
+.projects_title {
+    text-align: center;
+    font-size: 2vmax;
+}
+
+.projects {
+    text-align: center;
+}
+
+.img_blog {
+    display: inline-block;
+    text-align: center;
+    width: 35vmax;
+    height: 20.5vmax;
+    background-image: url("https://i.imgur.com/veGS7l0.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.towers_summary {
+    font-size: 1vmax;
+    width: 16vmax;
+}
+
+.img_towers {
+    display: inline-block;
+    width: 35vmax;
+    height: 20.5vmax;
+    background-image: url("https://i.imgur.com/q9HMk6q.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.game_shop_summary {
+    font-size: 1vmax;
+    width: 16vmax;
+}
+
+.img_game_site {
+    display: inline-block;
+    width: 35vmax;
+    height: 20.5vmax;
+    background-image: url("https://i.imgur.com/uVCfwwL.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
